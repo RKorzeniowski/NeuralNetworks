@@ -10,4 +10,4 @@ RBM - Restriced Boltzmann Machines
 RNN - Recurrent Neural Network
 SOM - Self Organiznig Maps
 
-All needed datasets for particular NN are in its folder
+All datasets needed for particular NN are in its folder
